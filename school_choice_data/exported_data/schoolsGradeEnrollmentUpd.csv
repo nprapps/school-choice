@@ -1,0 +1,362 @@
+,Corp ID,Corp Name,School ID,School Name,County,Grade,SC 2011,SC 2016,Count % Change,SpecEd 2016,SpecEd Perc,Enrollment 2016,Voucher Perc
+0,9200.0,Archdiocese of Indianapolis,A425,Saint Bartholomew School,Bartholomew,A,9.0,122.0,12.5555555556,19.0,5.08,374.0,32.62
+1,9200.0,Archdiocese of Indianapolis,A550,Saint Paul School,Clark,B,9.0,49.0,4.44444444444,30.0,9.09,330.0,14.85
+2,9200.0,Archdiocese of Indianapolis,A560,Saint Anthony School,Clark,A,10.0,179.0,16.9,41.0,12.24,335.0,53.43
+3,9200.0,Archdiocese of Indianapolis,A570,Sacred Heart School,Clark,A,18.0,99.0,4.5,22.0,12.09,182.0,54.4
+4,9200.0,Archdiocese of Indianapolis,A575,Our Lady Of Providence High School,Clark,A,,107.0,,34.0,6.95,489.0,21.88
+5,9200.0,Archdiocese of Indianapolis,A680,Saint Nicholas School,Ripley,A,,,,6.0,5.56,108.0,
+6,9200.0,Archdiocese of Indianapolis,A685,Saint Paul Catholic School,Dearborn,C,9.0,43.0,3.77777777778,10.0,16.13,62.0,69.35
+7,9200.0,Archdiocese of Indianapolis,A690,Saint Mary School,Dearborn,B,,53.0,,12.0,10.91,110.0,48.18
+8,9200.0,Archdiocese of Indianapolis,A700,Saint Lawrence School,Dearborn,C,9.0,37.0,3.11111111111,12.0,5.8,207.0,17.87
+9,9200.0,Archdiocese of Indianapolis,A730,Saint Mary School,Decatur,A,9.0,23.0,1.55555555556,26.0,10.24,254.0,9.06
+10,9200.0,Archdiocese of Indianapolis,B035,Saint Gabriel Parochial School,Fayette,A,,78.0,,9.0,6.47,139.0,56.12
+11,9200.0,Archdiocese of Indianapolis,B050,Holy Family School,Floyd,B,,58.0,,18.0,5.31,339.0,17.11
+12,9200.0,Archdiocese of Indianapolis,B060,Our Lady Of Perpetual School,Floyd,A,12.0,71.0,4.91666666667,29.0,8.01,362.0,19.61
+13,9200.0,Archdiocese of Indianapolis,B067,Saint Mary of-the-Knobs Catholic School,Floyd,A,9.0,24.0,1.66666666667,15.0,7.39,203.0,11.82
+14,9200.0,Archdiocese of Indianapolis,B095,Saint Michael School,Franklin,A,,31.0,,18.0,7.93,227.0,13.66
+15,9200.0,Archdiocese of Indianapolis,B265,Saint Michael School,Hancock,A,,52.0,,19.0,8.72,218.0,23.85
+16,9200.0,Archdiocese of Indianapolis,B280,Saint Joseph School,Harrison,B,9.0,40.0,3.44444444444,9.0,11.25,80.0,50.0
+17,9200.0,Archdiocese of Indianapolis,B285,Saint Malachy School,Hendricks,A,,124.0,,29.0,6.92,419.0,29.59
+18,9200.0,Archdiocese of Indianapolis,B300,Saint Susanna School,Hendricks,A,,50.0,,27.0,11.25,240.0,20.83
+19,9200.0,Archdiocese of Indianapolis,B440,Saint Ambrose School,Jackson,A,,67.0,,14.0,9.59,146.0,45.89
+20,9200.0,Archdiocese of Indianapolis,B505,Shawe Memorial High School,Jefferson,B,,71.0,,7.0,4.52,155.0,45.81
+21,9200.0,Archdiocese of Indianapolis,B510,Pope John XXIII School,Jefferson,C,,153.0,,11.0,3.54,311.0,49.2
+22,9200.0,Archdiocese of Indianapolis,B515,Saint Mary School,Jennings,A,,65.0,,12.0,6.67,180.0,36.11
+23,9200.0,Archdiocese of Indianapolis,B518,Saint Rose of Lima School,Johnson,B,,94.0,,17.0,9.6,177.0,53.11
+24,9200.0,Archdiocese of Indianapolis,B535,Our Lady Of The Greenwood School,Johnson,B,11.0,140.0,11.7272727273,28.0,9.4,298.0,46.98
+25,9200.0,Archdiocese of Indianapolis,B540,Saints Francis and Clare Catholic School,Johnson,A,,106.0,,55.0,10.62,518.0,20.46
+26,9200.0,Archdiocese of Indianapolis,C160,Saint Vincent DePaul School,Lawrence,A,,76.0,,11.0,5.76,191.0,39.79
+27,9200.0,Archdiocese of Indianapolis,C265,Nativity School,Marion,A,14.0,100.0,6.14285714286,27.0,6.73,401.0,24.94
+28,9200.0,Archdiocese of Indianapolis,C280,Saint Lawrence School,Marion,C,43.0,158.0,2.67441860465,22.0,8.87,248.0,63.71
+29,9200.0,Archdiocese of Indianapolis,C295,Saint Barnabas School,Marion,A,,128.0,,39.0,7.29,535.0,23.93
+30,9200.0,Archdiocese of Indianapolis,C300,Saint Jude Elementary School,Marion,A,,137.0,,44.0,8.91,494.0,27.73
+31,9200.0,Archdiocese of Indianapolis,C305,Saint Mark School,Marion,B,27.0,145.0,4.37037037037,27.0,8.63,313.0,46.33
+32,9200.0,Archdiocese of Indianapolis,C310,Saint Roch School,Marion,A,16.0,103.0,5.4375,29.0,9.57,303.0,33.99
+33,9200.0,Archdiocese of Indianapolis,C320,Roncalli High School,Marion,A,22.0,342.0,14.5454545455,99.0,8.36,1184.0,28.89
+34,9200.0,Archdiocese of Indianapolis,C360,Brebeuf Jesuit Preparatory School,Marion,A,11.0,85.0,6.72727272727,6.0,0.76,794.0,10.71
+35,9200.0,Archdiocese of Indianapolis,C390,Holy Spirit School,Marion,B,80.0,254.0,2.175,20.0,4.95,404.0,62.87
+36,9200.0,Archdiocese of Indianapolis,C435,Saint Luke School,Marion,A,,100.0,,63.0,10.52,599.0,16.69
+37,9200.0,Archdiocese of Indianapolis,C440,Saint Matthew School,Marion,A,,131.0,,51.0,12.38,412.0,31.8
+38,9200.0,Archdiocese of Indianapolis,C445,Saint Monica School,Marion,B,37.0,200.0,4.40540540541,48.0,11.62,413.0,48.43
+39,9200.0,Archdiocese of Indianapolis,C450,Saint Pius X School,Marion,A,,50.0,,46.0,10.93,421.0,11.88
+40,9200.0,Archdiocese of Indianapolis,C545,Holy Name School,Marion,B,12.0,133.0,10.0833333333,30.0,11.19,268.0,49.63
+41,9200.0,Archdiocese of Indianapolis,C585,Christ The King School,Marion,A,15.0,98.0,5.53333333333,43.0,12.65,340.0,28.82
+42,9200.0,Archdiocese of Indianapolis,C590,Holy Angels Catholic School,Marion,D,22.0,70.0,2.18181818182,13.0,13.4,97.0,72.16
+43,9200.0,Archdiocese of Indianapolis,C595,Holy Cross Central School,Marion,F,50.0,195.0,2.9,15.0,5.95,252.0,77.38
+44,9200.0,Archdiocese of Indianapolis,C600,Immaculate Heart of Mary School,Marion,B,9.0,,,33.0,7.62,433.0,
+45,9200.0,Archdiocese of Indianapolis,C605,Our Lady Of Lourdes School,Marion,C,23.0,99.0,3.30434782609,27.0,10.76,251.0,39.44
+46,9200.0,Archdiocese of Indianapolis,C615,Saint Anthony Catholic School,Marion,C,9.0,200.0,21.2222222222,9.0,3.69,244.0,81.97
+47,9200.0,Archdiocese of Indianapolis,C623,Providence Cristo Rey High School,Marion,B,65.0,246.0,2.78461538462,0.0,0.0,256.0,96.09
+48,9200.0,Archdiocese of Indianapolis,C625,Central Catholic School,Marion,F,44.0,188.0,3.27272727273,10.0,4.48,223.0,84.3
+49,9200.0,Archdiocese of Indianapolis,C645,Saint Joan Of Arc School,Marion,A,40.0,177.0,3.425,45.0,11.54,390.0,45.38
+50,9200.0,Archdiocese of Indianapolis,C650,Saint Michael The Archangel School,Marion,B,61.0,279.0,3.5737704918,30.0,8.6,349.0,79.94
+51,9200.0,Archdiocese of Indianapolis,C655,Saint Philip Neri School,Marion,D,46.0,210.0,3.5652173913,22.0,8.03,274.0,76.64
+52,9200.0,Archdiocese of Indianapolis,C665,Saint Simon The Apostle School,Marion,A,,48.0,,24.0,3.4,706.0,6.8
+53,9200.0,Archdiocese of Indianapolis,C670,Saint Therese Little Flower School,Marion,C,53.0,224.0,3.22641509434,19.0,5.97,318.0,70.44
+54,9200.0,Archdiocese of Indianapolis,C675,Saint Thomas Aquinas School,Marion,B,,48.0,,25.0,12.02,208.0,23.08
+55,9200.0,Archdiocese of Indianapolis,C700,Cathedral High School,Marion,A,18.0,250.0,12.8888888889,61.0,5.15,1184.0,21.11
+56,9200.0,Archdiocese of Indianapolis,C705,Bishop Chatard High School,Marion,A,19.0,194.0,9.21052631579,48.0,6.86,700.0,27.71
+57,9200.0,Archdiocese of Indianapolis,C710,Scecina Memorial School,Marion,B,40.0,311.0,6.775,5.0,1.11,449.0,69.27
+58,9200.0,Archdiocese of Indianapolis,C715,Cardinal Ritter High School,Marion,B,61.0,330.0,4.40983606557,30.0,4.52,663.0,49.77
+59,9200.0,Archdiocese of Indianapolis,C795,Saint Christopher School,Marion,A,,96.0,,12.0,5.88,204.0,47.06
+60,9200.0,Archdiocese of Indianapolis,C900,Saint Charles Borromeo School,Monroe,A,9.0,40.0,3.44444444444,32.0,8.02,399.0,10.03
+61,9200.0,Archdiocese of Indianapolis,D130,Saint Louis School,Ripley,A,9.0,87.0,8.66666666667,28.0,8.36,335.0,25.97
+62,9200.0,Archdiocese of Indianapolis,D135,Oldenburg Academy,Franklin,A,,63.0,,6.0,2.86,210.0,30.0
+63,9200.0,Archdiocese of Indianapolis,D140,Saint Mary Elementary School,Rush,B,,54.0,,14.0,13.59,103.0,52.43
+64,9200.0,Archdiocese of Indianapolis,D335,Saint Joseph School,Shelby,C,,42.0,,7.0,5.26,133.0,31.58
+65,9200.0,Archdiocese of Indianapolis,D720,Saint Patrick School,Vigo,A,18.0,140.0,6.77777777778,3.0,0.9,335.0,41.79
+66,9200.0,Archdiocese of Indianapolis,D840,Saint Elizabeth Ann Seton School,Wayne,A,10.0,155.0,14.5,16.0,5.54,289.0,53.63
+67,9200.0,Archdiocese of Indianapolis,D842,Seton Catholic High School,Wayne,B,,80.0,,15.0,9.74,154.0,51.95
+68,9205.0,Diocese of Gary,B755,Aquinas School at Saint Andrew's,Lake,B,11.0,79.0,6.18181818182,4.0,3.31,121.0,65.29
+69,9205.0,Diocese of Gary,B760,Andrean High School,Lake,A,41.0,161.0,2.92682926829,5.0,1.02,492.0,32.72
+70,9205.0,Diocese of Gary,B775,Saint Michael School,Lake,B,,25.0,,10.0,4.41,227.0,11.01
+71,9205.0,Diocese of Gary,B780,Saint John Evangelist School,Lake,A,9.0,34.0,2.77777777778,21.0,5.65,372.0,9.14
+72,9205.0,Diocese of Gary,B835,Saint Mary Catholic Community School,Lake,B,20.0,108.0,4.4,13.0,2.57,505.0,21.39
+73,9205.0,Diocese of Gary,B865,Saint Stanislaus School,Lake,C,72.0,166.0,1.30555555556,6.0,2.84,211.0,78.67
+74,9205.0,Diocese of Gary,B930,Saint Mary School,Lake,B,23.0,132.0,4.73913043478,7.0,2.8,250.0,52.8
+75,9205.0,Diocese of Gary,B950,Saint Casimir School,Lake,C,35.0,330.0,8.42857142857,12.0,2.56,468.0,70.51
+76,9205.0,Diocese of Gary,B960,Saint John Bosco School,Lake,B,36.0,167.0,3.63888888889,12.0,5.24,229.0,72.93
+77,9205.0,Diocese of Gary,B965,Saint John The Baptist School,Lake,C,12.0,96.0,7.0,16.0,4.2,381.0,25.2
+78,9205.0,Diocese of Gary,B970,Bishop Noll Institute,Lake,B,40.0,276.0,5.9,2.0,0.38,528.0,52.27
+79,9205.0,Diocese of Gary,C025,Our Lady Of Grace School,Lake,B,14.0,90.0,5.42857142857,12.0,8.11,148.0,60.81
+80,9205.0,Diocese of Gary,C060,Saint Thomas More School,Lake,A,,72.0,,32.0,6.57,487.0,14.78
+81,9205.0,Diocese of Gary,C105,Notre Dame Elementary School,LaPorte,A,11.0,71.0,5.45454545455,10.0,4.65,215.0,33.02
+82,9205.0,Diocese of Gary,C110,Queen Of All Saints School,LaPorte,A,38.0,99.0,1.60526315789,20.0,10.81,185.0,53.51
+83,9205.0,Diocese of Gary,C120,Saint Stanislaus Kostka School,LaPorte,B,32.0,84.0,1.625,12.0,10.08,119.0,70.59
+84,9205.0,Diocese of Gary,C125,Marquette Catholic High School,LaPorte,B,17.0,125.0,6.35294117647,9.0,3.3,273.0,45.79
+85,9205.0,Diocese of Gary,D050,Saint Patrick School,Porter,A,,12.0,,13.0,4.47,291.0,4.12
+86,9205.0,Diocese of Gary,D065,Nativity of Our Savior School,Porter,A,,64.0,,9.0,6.34,142.0,45.07
+87,9205.0,Diocese of Gary,D085,Saint Paul Catholic School,Porter,A,9.0,16.0,0.777777777778,15.0,5.36,280.0,5.71
+88,9210.0,Diocese of Lafayette Catholic Sch,A470,Sacred Heart School,Benton,A,9.0,45.0,4.0,19.0,22.35,85.0,52.94
+89,9210.0,Diocese of Lafayette Catholic Sch,A790,Saint Lawrence School,Delaware,A,,25.0,,7.0,15.22,46.0,54.35
+90,9210.0,Diocese of Lafayette Catholic Sch,A795,Saint Mary School,Delaware,B,11.0,55.0,4.0,9.0,5.96,151.0,36.42
+91,9210.0,Diocese of Lafayette Catholic Sch,B155,Saint Paul Parish School,Grant,B,,57.0,,8.0,6.72,119.0,47.9
+92,9210.0,Diocese of Lafayette Catholic Sch,B215,Our Lady Of Mt Carmel School,,A,,,,24.0,3.75,640.0,
+93,9210.0,Diocese of Lafayette Catholic Sch,B216,Saint Maria Goretti School,,A,,,,33.0,7.47,442.0,
+94,9210.0,Diocese of Lafayette Catholic Sch,B227,Saint Louis de Montfort School,,A,,,,16.0,3.27,490.0,
+95,9210.0,Diocese of Lafayette Catholic Sch,B246,Our Lady of Grace School,Hamilton,A,,56.0,,23.0,8.04,286.0,19.58
+96,9210.0,Diocese of Lafayette Catholic Sch,B249,Guerin Catholic High School,Hamilton,A,,59.0,,37.0,4.88,758.0,7.78
+97,9210.0,Diocese of Lafayette Catholic Sch,B395,Saints Joan of Arc & Patrick School,Howard,B,,150.0,,38.0,14.23,267.0,56.18
+98,9210.0,Diocese of Lafayette Catholic Sch,B475,Saint Augustine School,Jasper,A,,26.0,,11.0,10.78,102.0,25.49
+99,9210.0,Diocese of Lafayette Catholic Sch,C190,Saint Mary School,Madison,C,,45.0,,3.0,3.57,84.0,53.57
+100,,,C205,Saint Ambrose School,Madison,B,13.0,9.0,-0.307692307692,,,,
+101,,,C210,Saint Mary School,Madison,B,16.0,9.0,-0.4375,,,,
+102,9210.0,Diocese of Lafayette Catholic Sch,D415,Central Catholic Jr/Sr High School,Tippecanoe,A,,168.0,,22.0,5.08,433.0,38.8
+103,9210.0,Diocese of Lafayette Catholic Sch,D420,Saint Boniface School,Tippecanoe,A,,62.0,,12.0,9.3,129.0,48.06
+104,9210.0,Diocese of Lafayette Catholic Sch,D425,Saint Lawrence Elementary School,Tippecanoe,A,,100.0,,18.0,6.77,266.0,37.59
+105,9210.0,Diocese of Lafayette Catholic Sch,D430,Saint Mary Cathedral School,Tippecanoe,A,10.0,75.0,6.5,15.0,8.88,169.0,44.38
+106,9215.0,Diocese of Evansville,A660,Washington Catholic Middle/High School,Daviess,B,16.0,109.0,5.8125,16.0,9.3,172.0,63.37
+107,9215.0,Diocese of Evansville,A665,Washington Catholic Elementary School,Daviess,C,22.0,125.0,4.68181818182,14.0,7.49,187.0,66.84
+108,9215.0,Diocese of Evansville,A871,Holy Trinity Catholic School,Dubois,A,9.0,82.0,8.11111111111,39.0,11.14,350.0,23.43
+109,9215.0,Diocese of Evansville,B105,Saint Joseph School,Gibson,B,,64.0,,25.0,17.48,143.0,44.76
+110,9215.0,Diocese of Evansville,B115,Holy Cross School,Gibson,A,9.0,29.0,2.22222222222,19.0,13.1,145.0,20.0
+111,9215.0,Diocese of Evansville,B120,Saint James School,Gibson,A,9.0,70.0,6.77777777778,26.0,12.09,215.0,32.56
+112,9215.0,Diocese of Evansville,B125,Saints Peter & Paul School,Gibson,A,9.0,,,14.0,11.86,118.0,
+113,9215.0,Diocese of Evansville,B560,Rivet Middle & High School,Knox,B,,47.0,,4.0,2.65,151.0,31.13
+114,9215.0,Diocese of Evansville,B565,Flaget Elementary School,Knox,B,,77.0,,18.0,6.87,262.0,29.39
+115,9215.0,Diocese of Evansville,D095,Saint Matthew School,Posey,A,9.0,18.0,1.0,10.0,15.15,66.0,27.27
+116,9215.0,Diocese of Evansville,D100,Saint Philip School,Posey,A,,31.0,,15.0,8.33,180.0,17.22
+117,9215.0,Diocese of Evansville,D105,Saint Wendel School,Posey,A,,37.0,,19.0,10.33,184.0,20.11
+118,9215.0,Diocese of Evansville,D370,Saint Bernard School,Spencer,A,21.0,80.0,2.80952380952,25.0,20.83,120.0,66.67
+119,9215.0,Diocese of Evansville,D530,Mater Dei High School,Vanderburgh,A,,147.0,,19.0,3.59,529.0,27.79
+120,9215.0,Diocese of Evansville,D535,Reitz Memorial High School,Vanderburgh,A,13.0,193.0,13.8461538462,22.0,3.19,690.0,27.97
+121,9215.0,Diocese of Evansville,D545,Christ The King School,Vanderburgh,A,,48.0,,13.0,8.44,154.0,31.17
+122,9215.0,Diocese of Evansville,D550,Corpus Christi School,Vanderburgh,A,9.0,49.0,4.44444444444,17.0,6.83,249.0,19.68
+123,9215.0,Diocese of Evansville,D555,Good Shepherd School,Vanderburgh,A,,91.0,,25.0,7.14,350.0,26.0
+124,9215.0,Diocese of Evansville,D560,Holy Redeemer School,Vanderburgh,B,11.0,102.0,8.27272727273,18.0,8.22,219.0,46.58
+125,9215.0,Diocese of Evansville,D565,Holy Rosary School,Vanderburgh,A,,123.0,,26.0,7.37,353.0,34.84
+126,9215.0,Diocese of Evansville,D570,Holy Spirit School,Vanderburgh,B,25.0,123.0,3.92,45.0,25.86,174.0,70.69
+127,9215.0,Diocese of Evansville,D580,Westside Catholic School,Vanderburgh,B,,107.0,,17.0,10.0,170.0,62.94
+128,9215.0,Diocese of Evansville,D590,Saint Benedict Cathedral School,Vanderburgh,A,,84.0,,25.0,6.41,390.0,21.54
+129,9215.0,Diocese of Evansville,D605,Saint Joseph School,Vanderburgh,B,,38.0,,19.0,10.11,188.0,20.21
+130,9215.0,Diocese of Evansville,D610,Resurrection School,Vanderburgh,A,,87.0,,22.0,6.71,328.0,26.52
+131,9215.0,Diocese of Evansville,D815,Saint John The Baptist School,Warrick,A,,89.0,,41.0,12.09,339.0,26.25
+132,9220.0,Diocese of Fort Wayne - South Bend,A035,Saint Joseph School,Adams,A,,171.0,,25.0,8.42,297.0,57.58
+133,9220.0,Diocese of Fort Wayne - South Bend,A104,Saint Joseph-Saint Elizabeth Campus II,Allen,B,,197.0,,25.0,5.45,459.0,42.92
+134,9220.0,Diocese of Fort Wayne - South Bend,A120,Bishop Dwenger High School,Allen,A,22.0,450.0,19.4545454545,59.0,5.49,1075.0,41.86
+135,9220.0,Diocese of Fort Wayne - South Bend,A125,Bishop Luers High School,Allen,B,58.0,391.0,5.74137931034,38.0,6.16,617.0,63.37
+136,9220.0,Diocese of Fort Wayne - South Bend,A130,Most Precious Blood School,Allen,B,17.0,168.0,8.88235294118,22.0,9.48,232.0,72.41
+137,9220.0,Diocese of Fort Wayne - South Bend,A135,Queen Of Angels School,Allen,C,19.0,128.0,5.73684210526,11.0,5.7,193.0,66.32
+138,9220.0,Diocese of Fort Wayne - South Bend,A145,Saint Charles Borromeo School,Allen,A,24.0,389.0,15.2083333333,37.0,5.17,715.0,54.41
+139,9220.0,Diocese of Fort Wayne - South Bend,A150,Saint John The Baptist School,Allen,A,20.0,158.0,6.9,13.0,5.68,229.0,69.0
+140,9220.0,Diocese of Fort Wayne - South Bend,A155,Saint Joseph-Saint Elizabeth Campus I,Allen,B,,139.0,,10.0,5.52,181.0,76.8
+141,9220.0,Diocese of Fort Wayne - South Bend,A160,Saint Jude Elementary School,Allen,A,28.0,303.0,9.82142857143,32.0,6.61,484.0,62.6
+142,9220.0,Diocese of Fort Wayne - South Bend,A175,Saint Therese School,Allen,C,32.0,158.0,3.9375,17.0,8.85,192.0,82.29
+143,9220.0,Diocese of Fort Wayne - South Bend,A180,Saint Vincent DePaul School,Allen,A,,256.0,,52.0,6.91,752.0,34.04
+144,9220.0,Diocese of Fort Wayne - South Bend,A270,Saint Aloysius Catholic School,Allen,A,,51.0,,13.0,13.4,97.0,52.58
+145,9220.0,Diocese of Fort Wayne - South Bend,A340,Saint Joseph Catholic School,Allen,B,12.0,47.0,2.91666666667,10.0,9.52,105.0,44.76
+146,9220.0,Diocese of Fort Wayne - South Bend,A350,Saint Joseph Hessen Cassel Catholic School,Allen,B,,56.0,,10.0,8.93,112.0,50.0
+147,9220.0,Diocese of Fort Wayne - South Bend,A355,Saint John The Baptist Catholic School,Allen,A,,132.0,,13.0,5.73,227.0,58.15
+148,9220.0,Diocese of Fort Wayne - South Bend,A360,Saint Louis Besancon Catholic School,Allen,D,,63.0,,5.0,5.32,94.0,67.02
+149,9220.0,Diocese of Fort Wayne - South Bend,A735,Saint Joseph School,Dekalb,A,,37.0,,6.0,7.89,76.0,48.68
+150,9220.0,Diocese of Fort Wayne - South Bend,A975,Saint Thomas The Apostle School,Elkhart,B,13.0,86.0,5.61538461538,20.0,8.0,250.0,34.4
+151,9220.0,Diocese of Fort Wayne - South Bend,A980,Saint Vincent DePaul School,Elkhart,B,23.0,147.0,5.39130434783,10.0,6.13,163.0,90.18
+152,9220.0,Diocese of Fort Wayne - South Bend,B020,Saint John Evangelist School,Elkhart,C,,92.0,,11.0,8.66,127.0,72.44
+153,9220.0,Diocese of Fort Wayne - South Bend,B418,Huntington Catholic School,Huntington,C,17.0,75.0,3.41176470588,15.0,13.76,109.0,68.81
+154,9220.0,Diocese of Fort Wayne - South Bend,B605,Sacred Heart School,Kosciusko,A,,46.0,,13.0,8.97,145.0,31.72
+155,9220.0,Diocese of Fort Wayne - South Bend,C855,Saint Michael School,Marshall,A,,74.0,,7.0,4.35,161.0,45.96
+156,9220.0,Diocese of Fort Wayne - South Bend,C980,Saint Mary Elementary School,Noble,B,,57.0,,14.0,11.29,124.0,45.97
+157,9220.0,Diocese of Fort Wayne - South Bend,D164,Saint Pius X Catholic School,St Joseph,A,,94.0,,36.0,6.45,558.0,16.85
+158,9220.0,Diocese of Fort Wayne - South Bend,D165,Marian High School,St Joseph,A,41.0,341.0,7.31707317073,32.0,4.65,688.0,49.56
+159,9220.0,Diocese of Fort Wayne - South Bend,D177,Mishawaka Catholic School,St Joseph,B,18.0,163.0,8.05555555556,24.0,8.92,269.0,60.59
+160,9220.0,Diocese of Fort Wayne - South Bend,D198,Queen of Peace School,St Joseph,A,,96.0,,14.0,6.7,209.0,45.93
+161,9220.0,Diocese of Fort Wayne - South Bend,D225,Saint Joseph's High School,St Joseph,A,13.0,288.0,21.1538461538,35.0,3.91,896.0,32.14
+162,9220.0,Diocese of Fort Wayne - South Bend,D230,Christ The King School,St Joseph,A,,135.0,,38.0,7.92,480.0,28.13
+163,9220.0,Diocese of Fort Wayne - South Bend,D235,Corpus Christi School,St Joseph,B,,80.0,,20.0,10.64,188.0,42.55
+164,9220.0,Diocese of Fort Wayne - South Bend,D240,Holy Cross School,St Joseph,C,43.0,153.0,2.55813953488,21.0,9.91,212.0,72.17
+165,9220.0,Diocese of Fort Wayne - South Bend,D245,Holy Family School,St Joseph,C,35.0,157.0,3.48571428571,12.0,4.6,261.0,60.15
+166,9220.0,Diocese of Fort Wayne - South Bend,D250,Our Lady Of Hungary School,St Joseph,A,65.0,179.0,1.75384615385,10.0,5.43,184.0,97.28
+167,9220.0,Diocese of Fort Wayne - South Bend,D255,Saint Adalbert School,St Joseph,B,46.0,198.0,3.30434782609,9.0,4.0,225.0,88.0
+168,9220.0,Diocese of Fort Wayne - South Bend,D260,Saint Anthony De Padua School,St Joseph,A,32.0,134.0,3.1875,29.0,10.51,276.0,48.55
+169,9220.0,Diocese of Fort Wayne - South Bend,D265,Saint John The Baptist School,St Joseph,D,27.0,68.0,1.51851851852,5.0,6.94,72.0,94.44
+170,9220.0,Diocese of Fort Wayne - South Bend,D270,Saint Joseph School,St Joseph,A,,91.0,,37.0,8.17,453.0,20.09
+171,9220.0,Diocese of Fort Wayne - South Bend,D275,Saint Jude Catholic School,St Joseph,C,17.0,117.0,5.88235294118,38.0,19.69,193.0,60.62
+172,9220.0,Diocese of Fort Wayne - South Bend,D285,Saint Matthew Cathedral School,St Joseph,C,32.0,258.0,7.0625,46.0,12.99,354.0,72.88
+173,9220.0,Diocese of Fort Wayne - South Bend,D805,Saint Bernard Elementary School,Wabash,A,,47.0,,4.0,5.26,76.0,61.84
+174,9230.0,Lutheran Schools of Indiana,A040,Saint Peter Immanuel Lutheran School,Adams,C,9.0,18.0,1.0,2.0,4.65,43.0,41.86
+175,9230.0,Lutheran Schools of Indiana,A045,Wyneken Memorial Lutheran School,,A,,,,10.0,4.61,217.0,
+176,9230.0,Lutheran Schools of Indiana,A195,Concordia Lutheran High School,Allen,A,21.0,397.0,17.9047619048,31.0,3.97,781.0,50.83
+177,9230.0,Lutheran Schools of Indiana,A200,Suburban Bethlehem Lutheran School,Allen,B,9.0,84.0,8.33333333333,10.0,6.54,153.0,54.9
+178,9230.0,Lutheran Schools of Indiana,A205,Concordia Evangelical Lutheran School,Allen,C,9.0,246.0,26.3333333333,18.0,4.63,389.0,63.24
+179,9230.0,Lutheran Schools of Indiana,A215,Emmanuel Saint Michael Lutheran School,Allen,A,9.0,162.0,17.0,22.0,6.4,344.0,47.09
+180,9230.0,Lutheran Schools of Indiana,A220,Emmaus Lutheran School,Allen,A,16.0,94.0,4.875,3.0,1.55,193.0,48.7
+181,9230.0,Lutheran Schools of Indiana,A225,Holy Cross Lutheran School,Allen,B,9.0,202.0,21.4444444444,26.0,6.31,412.0,49.03
+182,9230.0,Lutheran Schools of Indiana,A235,Lutheran South Unity School,Allen,B,19.0,65.0,2.42105263158,14.0,8.05,174.0,37.36
+183,9230.0,Lutheran Schools of Indiana,A245,Saint Paul Lutheran School,Allen,A,12.0,125.0,9.41666666667,13.0,7.14,182.0,68.68
+184,9230.0,Lutheran Schools of Indiana,A248,Ascension Lutheran School,Allen,B,,86.0,,11.0,7.86,140.0,61.43
+185,9230.0,Lutheran Schools of Indiana,A250,Saint Peter's Lutheran School,Allen,A,9.0,124.0,12.7777777778,15.0,7.01,214.0,57.94
+186,9230.0,Lutheran Schools of Indiana,A365,Saint John-Emmanuel Lutheran School,Allen,C,9.0,53.0,4.88888888889,18.0,12.95,139.0,38.13
+187,9230.0,Lutheran Schools of Indiana,A370,Central Lutheran School,Allen,B,9.0,160.0,16.7777777778,12.0,3.48,345.0,46.38
+188,9230.0,Lutheran Schools of Indiana,A375,Woodburn Lutheran School,Allen,A,,82.0,,13.0,9.85,132.0,62.12
+189,9230.0,Lutheran Schools of Indiana,A430,White Creek Lutheran School,Bartholomew,A,,17.0,,12.0,9.38,128.0,13.28
+190,9230.0,Lutheran Schools of Indiana,A435,Saint Peter Lutheran School,Bartholomew,B,,122.0,,33.0,7.5,440.0,27.73
+191,9230.0,Lutheran Schools of Indiana,B275,Saint John Lutheran School,Harrison,C,9.0,25.0,1.77777777778,11.0,17.19,64.0,39.06
+192,9230.0,Lutheran Schools of Indiana,B367,Redeemer Lutheran School,Howard,B,,49.0,,13.0,13.68,95.0,51.58
+193,9230.0,Lutheran Schools of Indiana,B445,Immanuel Lutheran School,Jackson,A,9.0,104.0,10.5555555556,36.0,11.15,323.0,32.2
+194,9230.0,Lutheran Schools of Indiana,B450,Saint John Lutheran School,Jackson,F,9.0,,,13.0,14.44,90.0,
+195,9230.0,Lutheran Schools of Indiana,B452,Trinity Lutheran High School,Jackson,A,9.0,51.0,4.66666666667,11.0,7.75,142.0,35.92
+196,9230.0,Lutheran Schools of Indiana,B465,Lutheran Central School,,A,,,,10.0,7.87,127.0,
+197,9230.0,Lutheran Schools of Indiana,B850,Trinity Lutheran School,Lake,B,,88.0,,15.0,7.81,192.0,45.83
+198,9230.0,Lutheran Schools of Indiana,C050,Trinity Lutheran School,Lake,B,10.0,27.0,1.7,4.0,4.88,82.0,32.93
+199,9230.0,Lutheran Schools of Indiana,C065,Saint Paul's Lutheran School,Lake,A,9.0,37.0,3.11111111111,10.0,6.02,166.0,22.29
+200,9230.0,Lutheran Schools of Indiana,C150,Saint John Lutheran School,LaPorte,A,,57.0,,10.0,9.8,102.0,55.88
+201,9230.0,Lutheran Schools of Indiana,C267,Holy Cross Lutheran School,Marion,A,,36.0,,24.0,10.0,240.0,15.0
+202,9230.0,Lutheran Schools of Indiana,C270,Lutheran High School,Marion,B,15.0,121.0,7.06666666667,20.0,7.97,251.0,48.21
+203,9230.0,Lutheran Schools of Indiana,C315,Calvary Lutheran School,Marion,B,20.0,113.0,4.65,18.0,8.04,224.0,50.45
+204,9230.0,Lutheran Schools of Indiana,C395,Trinity Lutheran School,Marion,B,24.0,51.0,1.125,13.0,10.83,120.0,42.5
+205,9230.0,Lutheran Schools of Indiana,C400,Saint John Evangelical Lutheran School,Marion,B,11.0,69.0,5.27272727273,16.0,8.65,185.0,37.3
+206,9230.0,Lutheran Schools of Indiana,C512,Our Shepherd Lutheran School,Hendricks,C,,52.0,,11.0,7.33,150.0,34.67
+207,9230.0,Lutheran Schools of Indiana,C680,Emmaus Lutheran School,Marion,No Grade,,14.0,,2.0,10.53,19.0,73.68
+208,9230.0,Lutheran Schools of Indiana,C985,Saint John Lutheran School,Noble,A,10.0,75.0,6.5,13.0,8.84,147.0,51.02
+209,9230.0,Lutheran Schools of Indiana,D090,Immanuel Lutheran School,,A,,,,9.0,5.26,171.0,
+210,9230.0,Lutheran Schools of Indiana,D375,Saint Peter Lutheran School,Starke,B,,57.0,,3.0,3.41,88.0,64.77
+211,9230.0,Lutheran Schools of Indiana,D435,Saint James Lutheran School,Tippecanoe,A,,54.0,,19.0,9.13,208.0,25.96
+212,9230.0,Lutheran Schools of Indiana,D625,Evansville Lutheran School,Vanderburgh,B,16.0,111.0,5.9375,25.0,14.79,169.0,65.68
+213,9240.0,The Oaks Academy,B297,The Oaks Academy - Brookside,Marion,A,9.0,115.0,11.7777777778,11.0,4.66,236.0,48.73
+214,9240.0,The Oaks Academy,C773,The Oaks Academy,Marion,A,9.0,175.0,18.4444444444,28.0,8.09,346.0,50.58
+215,9240.0,The Oaks Academy,C774,The Oaks Academy - Middle School,Marion,A,9.0,83.0,8.22222222222,6.0,4.05,148.0,56.08
+216,,,A170,Blackhawk Christian Jr/Sr High School,Allen,A,13.0,156.0,11.0,5.0,1.43,350.0,44.57
+217,,,A172,Blackhawk Christian Elementary School,Allen,A,31.0,246.0,6.93548387097,12.0,3.06,392.0,62.76
+218,,,A236,Cornerstone College Preparatory School,Allen,F,92.0,122.0,0.326086956522,1.0,0.77,130.0,93.85
+219,,,A249,Central Christian School,Allen,C,11.0,96.0,7.72727272727,11.0,7.48,147.0,65.31
+220,,,A260,Aboite Christian School,Huntington,C,9.0,35.0,2.88888888889,0.0,0.0,45.0,77.78
+221,,,A302,Horizon Christian Academy II,Allen,F,9.0,9.0,0.0,,,,
+222,,,A307,Horizon Christian Academy III,Allen,D,9.0,433.0,47.1111111111,60.0,12.2,492.0,88.01
+223,,,A309,Horizon Christian Academy,Allen,F,22.0,9.0,-0.590909090909,,,,
+224,,,A352,Gateway Woods School,,F,,,,0.0,0.0,4.0,
+225,,,A405,North Star Montessori School,Bartholomew,No Grade,9.0,16.0,0.777777777778,0.0,0.0,15.0,106.67
+226,,,A450,Columbus Christian School Inc.,Bartholomew,B,30.0,122.0,3.06666666667,8.0,3.79,211.0,57.82
+227,,,A480,James E Davis School,,No Grade,,,,0.0,0.0,26.0,
+228,,,A724,Good Shepherd Christian Academy,Decatur,D,,40.0,,13.0,17.57,74.0,54.05
+229,,,A740,Lakewood Park Christian School,Dekalb,A,26.0,262.0,9.07692307692,36.0,6.03,597.0,43.89
+230,,,A746,Heritage Hall Christian School,Delaware,A,9.0,115.0,11.7777777778,11.0,5.34,206.0,55.83
+231,,,A875,Clinton Christian School,Elkhart,B,9.0,133.0,13.7777777778,10.0,4.67,214.0,62.15
+232,,,A990,Elkhart Christian Academy,Elkhart,B,22.0,236.0,9.72727272727,30.0,5.64,532.0,44.36
+233,,,B015,Bethany Christian School,Elkhart,A,28.0,158.0,4.64285714286,14.0,4.75,295.0,53.56
+234,,,B045,Christian Academy of Indiana,Floyd,A,17.0,229.0,12.4705882353,19.0,2.56,743.0,30.82
+235,,,B085,Covington Christian School,Fountain,C,,19.0,,3.0,5.36,56.0,33.93
+236,,,B136,The King's Academy,Grant,B,,149.0,,6.0,3.33,180.0,82.78
+237,,,B145,Lakeview Christian School,Grant,F,48.0,198.0,3.125,2.0,0.88,228.0,86.84
+238,,,B160,Eman Schools,Hamilton,A,,121.0,,6.0,2.26,266.0,45.49
+239,,,B161,Fishers Christian Academy,Hamilton,B,9.0,42.0,3.66666666667,2.0,3.7,54.0,77.78
+240,,,B167,Paddock View Residential Center,Grant,No Grade,20.0,9.0,-0.55,3.0,9.09,33.0,27.27
+241,,,B190,Indiana Academy,Hamilton,F,9.0,90.0,9.0,1.0,0.79,127.0,70.87
+242,,,B241,University High School of Indiana,Hamilton,A,,9.0,,0.0,0.0,289.0,3.11
+243,,,B248,Legacy Christian School,Hamilton,A,9.0,34.0,2.77777777778,21.0,11.86,177.0,19.21
+244,,,B290,Bethesda Christian School,Hendricks,B,,110.0,,16.0,5.0,320.0,34.38
+245,,,B295,Kingsway Christian School,Hendricks,A,,141.0,,27.0,6.65,406.0,34.73
+246,,,B302,Islamic School of Plainfield,Hendricks,No Grade,9.0,16.0,0.777777777778,0.0,0.0,31.0,51.61
+247,,,B455,Seymour Christian Academy,Jackson,D,9.0,86.0,8.55555555556,5.0,4.39,114.0,75.44
+248,,,B469,Covenant Christian High School,Jasper,A,,35.0,,2.0,2.02,99.0,35.35
+249,,,B470,DeMotte Christian School,Jasper,B,11.0,137.0,11.4545454545,15.0,4.78,314.0,43.63
+250,,,B473,White's Academy,,F,,,,12.0,46.15,26.0,
+251,,,B483,Jay County Christian Academy,Jay,C,18.0,41.0,1.27777777778,9.0,16.07,56.0,73.21
+252,,,B493,Christian Academy of Madison,Jefferson,C,,76.0,,7.0,4.64,151.0,50.33
+253,,,B557,Pierceton Woods Academy,,No Grade,,,,,,,
+254,,,B595,Lakeland Christian Academy,Kosciusko,F,,55.0,,11.0,7.38,149.0,36.91
+255,,,B600,Warsaw Christian School,Kosciusko,A,9.0,119.0,12.2222222222,20.0,10.0,200.0,59.5
+256,,,B725,Howe School,LaGrange,B,,14.0,,15.0,20.83,72.0,19.44
+257,,,B747,Midwest Elite Preparatory Academy,Lake,No Grade,9.0,50.0,4.55555555556,6.0,10.53,57.0,87.72
+258,,,B748,Faith Academy,Lake,D,9.0,65.0,6.22222222222,7.0,9.46,74.0,87.84
+259,,,B764,Avicenna Academy,Lake,D,9.0,20.0,1.22222222222,0.0,0.0,40.0,50.0
+260,,,B771,Crown Point Christian School,Lake,B,9.0,122.0,12.5555555556,2.0,0.28,709.0,17.21
+261,,,B806,Ambassador Christian Academy,Lake,D,110.0,154.0,0.4,0.0,0.0,190.0,81.05
+262,,,B807,Willowglen Academy,,No Grade,,,,,,,
+263,,,B815,Calumet Christian School,Lake,F,9.0,106.0,10.7777777778,6.0,4.51,133.0,79.7
+264,,,B901,Trinity Educational Daycare & Academy,Lake,No Grade,9.0,9.0,0.0,,,,
+265,,,B904,Mosaic Middle School,Lake,No Grade,9.0,52.0,4.77777777778,1.0,1.96,51.0,101.96
+266,,,B928,Spirit of God Accelerated School,Lake,F,9.0,41.0,3.55555555556,0.0,0.0,52.0,78.85
+267,,,B951,Morning Star Academy,Lake,No Grade,9.0,12.0,0.333333333333,0.0,0.0,41.0,29.27
+268,,,C020,Highland Christian School,Lake,B,9.0,164.0,17.2222222222,13.0,3.77,345.0,47.54
+269,,,C112,Door Prairie Adventist School,LaPorte,D,9.0,9.0,0.0,1.0,12.5,8.0,112.5
+270,,,C130,Saint Paul Lutheran School,LaPorte,C,9.0,90.0,9.0,13.0,10.66,122.0,73.77
+271,,,C175,Indiana Christian Academy,Madison,D,9.0,189.0,20.0,31.0,10.99,282.0,67.02
+272,,,C215,Cross Street Christian School,Madison,F,9.0,28.0,2.11111111111,0.0,0.0,40.0,70.0
+273,,,C223,Delaware Christian Academy,Delaware,No Grade,9.0,44.0,3.88888888889,0.0,0.0,41.0,107.32
+274,,,C224,Liberty Christian School (7-8),Madison,D,24.0,9.0,-0.625,,,,
+275,,,C225,Liberty Christian School,Madison,B,23.0,126.0,4.47826086957,20.0,8.81,227.0,55.51
+276,,,C226,Liberty Christian Elementary,Madison,C,73.0,197.0,1.69863013699,24.0,8.16,294.0,67.01
+277,,,C250,Anderson Christian School,Madison,C,9.0,40.0,3.44444444444,8.0,12.7,63.0,63.49
+278,,,C257,Damar Academy,,F,,,,25.0,43.86,57.0,
+279,,,C271,Curtis Wilson Primary School,,A,,,,13.0,11.4,114.0,
+280,,,C275,Heritage Christian School,Marion,A,34.0,313.0,8.20588235294,30.0,2.52,1189.0,26.32
+281,,,C281,Cornerstone Baptist Academy,Marion,B,9.0,83.0,8.22222222222,6.0,4.88,123.0,67.48
+282,,,C282,Horizon Christian School,Marion,B,17.0,157.0,8.23529411765,17.0,6.16,276.0,56.88
+283,,,C325,Suburban Christian School,Marion,D,9.0,145.0,15.1111111111,8.0,3.38,237.0,61.18
+284,,,C349,Southport Presbyterian Christian School,Marion,B,,26.0,,3.0,4.0,75.0,34.67
+285,,,C375,Traders Point Christian Academy,Boone,C,15.0,225.0,14.0,51.0,8.28,616.0,36.53
+286,,,C396,Burge Terrace Christian School,Marion,No Grade,9.0,40.0,3.44444444444,6.0,7.89,76.0,52.63
+287,,,C455,Indianapolis Junior Academy,Marion,C,45.0,59.0,0.311111111111,2.0,2.08,96.0,61.46
+288,,,C475,Hasten Hebrew Academy Of Indianapolis,Marion,A,9.0,37.0,3.11111111111,14.0,9.66,145.0,25.52
+289,,,C495,Colonial Christian School,Marion,C,9.0,91.0,9.11111111111,9.0,3.81,236.0,38.56
+290,,,C514,Crosspointe Christian Academy,Marion,C,9.0,98.0,9.88888888889,12.0,4.94,243.0,40.33
+291,,,C527,Covenant Christian High School,Marion,A,21.0,100.0,3.7619047619,13.0,3.89,334.0,29.94
+292,,,C561,Trinity Christian School,Marion,C,57.0,177.0,2.10526315789,22.0,12.29,179.0,98.88
+293,,,C563,Horizon Christian School-Shepherd Campus,Marion,F,9.0,100.0,10.1111111111,4.0,3.51,114.0,87.72
+294,,,C575,Baptist Academy,Marion,A,41.0,65.0,0.585365853659,16.0,10.74,149.0,43.62
+295,,,C580,Calvary Christian School,Marion,A,32.0,124.0,2.875,17.0,7.62,223.0,55.61
+296,,,C589,The Independence Academy,Marion,F,9.0,14.0,0.555555555556,28.0,70.0,40.0,35.0
+297,,,C628,MTI School of Knowledge,Marion,D,70.0,229.0,2.27142857143,1.0,0.41,241.0,95.02
+298,,,C677,International Sch of IN HS (9-12),,A,,,,2.0,1.21,165.0,
+299,,,C690,Capitol City Seventh Day Adventist Church School,Marion,F,,24.0,,0.0,0.0,58.0,41.38
+300,,,C699,TP Schools,Marion,A,9.0,76.0,7.44444444444,5.0,2.25,222.0,34.23
+301,,,C791,Project Libertas,Marion,C,9.0,60.0,5.66666666667,10.0,14.29,70.0,85.71
+302,,,C899,Pinnacle School,Monroe,F,11.0,,,0.0,0.0,15.0,
+303,,,C905,Adventist Christian Elementary,Monroe,No Grade,9.0,,,0.0,0.0,14.0,
+304,,,C918,The Prep School,Monroe,No Grade,9.0,9.0,0.0,6.0,7.89,76.0,11.84
+305,,,C927,Lighthouse Christian Academy,Monroe,A,,152.0,,23.0,8.07,285.0,53.33
+306,,,C933,Clear Creek Christian School,Monroe,B,,40.0,,14.0,12.73,110.0,36.36
+307,,,C940,Tabernacle Christian Schools,Morgan,C,9.0,212.0,22.5555555556,24.0,7.95,302.0,70.2
+308,,,C965,Mooresville Christian Academy,Morgan,B,,139.0,,21.0,6.54,321.0,43.3
+309,,,C966,Greenwood Christian Academy,Johnson,B,20.0,230.0,10.5,18.0,3.09,583.0,39.45
+310,,,D056,Shults-Lewis Child & Family Srvs,,No Grade,,,,0.0,0.0,8.0,
+311,,,D058,Midwest Academy MCYF,,No Grade,,,,,,,
+312,,,D073,Victory Christian Academy,Porter,B,25.0,160.0,5.4,5.0,1.69,296.0,54.05
+313,,,D080,Portage Christian School,Porter,D,9.0,267.0,28.6666666667,22.0,7.26,303.0,88.12
+314,,,D158,North Liberty Christian School,St Joseph,C,9.0,11.0,0.222222222222,1.0,2.63,38.0,28.95
+315,,,D189,Covenant Christian School,St Joseph,A,,83.0,,9.0,6.98,129.0,64.34
+316,,,D195,South Bend Hebrew Day School,St Joseph,A,9.0,82.0,8.11111111111,13.0,8.5,153.0,53.59
+317,,,D217,Trinity School At Greenlawn,St Joseph,F,9.0,67.0,6.44444444444,3.0,1.54,195.0,34.36
+318,,,D249,New Vision Christian Academy,St Joseph,F,9.0,24.0,1.66666666667,0.0,0.0,24.0,100.0
+319,,,D300,South Bend Junior Academy School,St Joseph,No Grade,,20.0,,2.0,7.41,27.0,74.07
+320,,,D305,Community Baptist Christian School,St. Joseph,C,9.0,116.0,11.8888888889,10.0,6.06,165.0,70.3
+321,,,D310,Granger Christian School,St Joseph,A,,114.0,,10.0,4.35,230.0,49.57
+322,,,D315,Michiana Christian School,St Joseph,D,9.0,36.0,3.0,6.0,12.77,47.0,76.6
+323,,,D329,Grace Christian Academy,Scott,B,11.0,77.0,6.0,0.0,0.0,93.0,82.8
+324,,,D440,Lafayette Christian School,Tippecanoe,A,9.0,141.0,14.6666666667,33.0,11.38,290.0,48.62
+325,,,D451,T. C. Harris School,,F,,,,48.0,38.4,125.0,
+326,,,D452,Faith Christian School,Tippecanoe,A,20.0,243.0,11.15,43.0,7.19,598.0,40.64
+327,,,D485,Evansville Christian School,Vanderburgh,A,10.0,330.0,32.0,37.0,5.4,685.0,48.18
+328,,,D525,Evansville Day School,Vanderburgh,A,,38.0,,13.0,5.31,245.0,15.51
+329,,,D676,Small World Learning Center,,No Grade,,,,,,,
+330,,,D725,Holy Cross School,Vigo,F,,9.0,,4.0,13.33,30.0,30.0
+331,,,D748,Terre Haute Seventh Day Adventist School,Vigo,No Grade,,14.0,,1.0,6.67,15.0,93.33
+332,,,D860,Richmond Academy,Wayne,F,14.0,44.0,2.14285714286,1.0,1.59,63.0,69.84
+333,,,D862,Community Christian School,Wayne,A,,44.0,,4.0,4.08,98.0,44.9
+334,,,D875,Kingdom Academy of Bluffton Inc,,B,,,,0.0,0.0,52.0,
+335,,,D907,TROY Center,Whitley,F,9.0,30.0,2.33333333333,1.0,2.94,34.0,88.24
+336,,,A515,All Saints Catholic School,Cass,,,9.0,,,,,
+337,,,B195,Cicero Adventist School,Hamilton,,9.0,9.0,0.0,,,,
+338,,,B985,City Baptist Schools,Lake,,9.0,9.0,0.0,,,,
+339,,,A479,ClearView Education,Boone,,9.0,9.0,0.0,,,,
+340,,,B009,Crossing Educational Center,Elkhart,,9.0,276.0,29.6666666667,114.0,11.26,1012.0,27.27
+341,,,A275,Crossroad Academy,Allen,,,13.0,,35.0,74.47,47.0,27.66
+342,,,D526,Evansville Day School PK-08,Vanderburgh,,,9.0,,,,,
+343,,,B037,Faith Christian School,Fayette,,9.0,9.0,0.0,,,,
+344,,,B790,Hammond Baptist Elementary & High School,Lake,,9.0,9.0,0.0,,,,
+345,9210.0,Diocese of Lafayette Catholic Sch,C211,Holy Cross School,Madison,,,165.0,,14.0,6.64,211.0,78.2
+346,,,A865,Holy Family School,Dubois,,,9.0,,,,,
+347,,,D722,John Paul II Catholic High School,Vigo,,,9.0,,,,,
+348,,,B299,Legacy Learning Center,Marion,,,75.0,,0.0,0.0,104.0,72.12
+349,9220.0,Diocese of Fort Wayne - South Bend,A106,Our Lady School,Allen,,,102.0,,9.0,5.14,175.0,58.29
+350,,,A870,Precious Blood School,Dubois,,,9.0,,,,,
+351,9230.0,Lutheran Schools of Indiana,D317,Resurrection Lutheran Academy,St Joseph,,,18.0,,2.0,3.57,56.0,32.14
+352,,,C040,Saint Bridget School,Lake,,,9.0,,,,,
+353,,,B800,Saint Edward School,Lake,,,9.0,,,,,
+354,9230.0,Lutheran Schools of Indiana,A695,Saint John Evangelical Lutheran School,Dearborn,,,19.0,,4.0,7.69,52.0,36.54
+355,,,D465,Saint John The Baptist School,Tippecanoe,,,9.0,,,,,
+356,,,C145,Saint Joseph School,LaPorte,,,9.0,,,,,
+357,,,B065,Saint Mary's Catholic School,Floyd,,,9.0,,,,,
+358,,,D615,Saint Theresa School,Vanderburgh,,16.0,9.0,-0.4375,,,,
+359,,,D458,Tippecanoe Christian School,Tippecanoe,,,9.0,,,,,
+360,,,B293,Todd Academy,Marion,,9.0,9.0,0.0,,,,
