@@ -1,0 +1,364 @@
+,School No.,School Name,Special ed enrollment 2016,Special ed ratio 2016,Total enrollment 2016
+0,A425,St Bartholomew School,19.0,5.08,374.0
+1,A550,St John Paul II Catholic School,30.0,9.09,330.0
+2,A560,Saint Anthony of Padua,41.0,12.24,335.0
+3,A570,Sacred Heart School,22.0,12.09,182.0
+4,A575,Our Lady Of Providence High School,34.0,6.95,489.0
+5,A680,Saint Nicholas School,6.0,5.56,108.0
+6,A685,All Saints Catholic Academy,10.0,16.13,62.0
+7,A690,Saint Mary School,12.0,10.91,110.0
+8,A700,Saint Lawrence School,12.0,5.8,207.0
+9,A730,Saint Mary's School,26.0,10.24,254.0
+10,B035,Saint Gabriel Catholic School,9.0,6.47,139.0
+11,B050,Holy Family School,18.0,5.31,339.0
+12,B060,Our Lady Of Perpetual School,29.0,8.01,362.0
+13,B067,St Mary of-the-Knobs Catholic Sch,15.0,7.39,203.0
+14,B095,Saint Michael School,18.0,7.93,227.0
+15,B265,Saint Michael School,19.0,8.72,218.0
+16,B280,Saint Joseph School,9.0,11.25,80.0
+17,B285,Saint Malachy School,29.0,6.92,419.0
+18,B300,Saint Susanna School,27.0,11.25,240.0
+19,B440,Saint Ambrose School,14.0,9.59,146.0
+20,B505,Shawe Memorial High School,7.0,4.52,155.0
+21,B510,Pope John XXIII Elementary School,11.0,3.54,311.0
+22,B515,Saint Mary School,12.0,6.67,180.0
+23,B518,St Rose of Lima School,17.0,9.6,177.0
+24,B535,Our Lady of the Greenwood School,28.0,9.4,298.0
+25,B540,SS Francis and Clare Catholic Sch,55.0,10.62,518.0
+26,C160,Saint Vincent DePaul School,11.0,5.76,191.0
+27,C265,Nativity Catholic School,27.0,6.73,401.0
+28,C280,Saint Lawrence School,22.0,8.87,248.0
+29,C295,Saint Barnabas School,39.0,7.29,535.0
+30,C300,Saint Jude Elementary School,44.0,8.91,494.0
+31,C305,Saint Mark School,27.0,8.63,313.0
+32,C310,Saint Roch School,29.0,9.57,303.0
+33,C320,Roncalli High School,99.0,8.36,1184.0
+34,C360,Brebeuf Jesuit Preparatory School,6.0,0.76,794.0
+35,C390,Holy Spirit School,20.0,4.95,404.0
+36,C435,Saint Luke School,63.0,10.52,599.0
+37,C440,Saint Matthew School,51.0,12.38,412.0
+38,C445,Saint Monica School,48.0,11.62,413.0
+39,C450,Saint Pius X School,46.0,10.93,421.0
+40,C545,Holy Name Catholic School,30.0,11.19,268.0
+41,C585,Christ The King School,43.0,12.65,340.0
+42,C590,Holy Angels Catholic School,13.0,13.4,97.0
+43,C595,Holy Cross Central School,15.0,5.95,252.0
+44,C600,Immaculate Heart of Mary School,33.0,7.62,433.0
+45,C605,Our Lady Of Lourdes School,27.0,10.76,251.0
+46,C615,St Anthony Catholic School,9.0,3.69,244.0
+47,C623,Providence Cristo Rey High School,0.0,0.0,256.0
+48,C625,Central Catholic School,10.0,4.48,223.0
+49,C645,Saint Joan Of Arc School,45.0,11.54,390.0
+50,C650,St Michael The Archangel School,30.0,8.6,349.0
+51,C655,Saint Philip Neri School,22.0,8.03,274.0
+52,C665,Saint Simon The Apostle School,24.0,3.4,706.0
+53,C670,St Therese Little Flower School,19.0,5.97,318.0
+54,C675,Saint Thomas Aquinas School,25.0,12.02,208.0
+55,C700,Cathedral High School,61.0,5.15,1184.0
+56,C705,Bishop Chatard High School,48.0,6.86,700.0
+57,C710,Scecina Memorial High School,5.0,1.11,449.0
+58,C715,Cardinal Ritter High School,30.0,4.52,663.0
+59,C795,Saint Christopher School,12.0,5.88,204.0
+60,C900,Saint Charles Boromeo School,32.0,8.02,399.0
+61,D130,Saint Louis School,28.0,8.36,335.0
+62,D135,Oldenburg Academy,6.0,2.86,210.0
+63,D140,Saint Mary Elementary School,14.0,13.59,103.0
+64,D335,Saint Joseph School,7.0,5.26,133.0
+65,D720,Saint Patrick School,3.0,0.9,335.0
+66,D840,Seton Catholic Elementary,16.0,5.54,289.0
+67,D842,Seton Catholic High School,15.0,9.74,154.0
+68,B755,Aquinas School at St Andrew's,4.0,3.31,121.0
+69,B760,Andrean High School,5.0,1.02,492.0
+70,B775,Saint Michael School,10.0,4.41,227.0
+71,B780,Saint John Evangelist School,21.0,5.65,372.0
+72,B835,Saint Mary Catholic Comm School,13.0,2.57,505.0
+73,B865,St Stanislaus School,6.0,2.84,211.0
+74,B930,Saint Mary School,7.0,2.8,250.0
+75,B950,Saint Casimir School,12.0,2.56,468.0
+76,B960,Saint John Bosco School,12.0,5.24,229.0
+77,B965,Saint John The Baptist School,16.0,4.2,381.0
+78,B970,Bishop Noll Institute,2.0,0.38,528.0
+79,C025,Our Lady Of Grace School,12.0,8.11,148.0
+80,C060,Saint Thomas More School,32.0,6.57,487.0
+81,C105,Notre Dame Catholic School,10.0,4.65,215.0
+82,C110,Queen Of All Saints School,20.0,10.81,185.0
+83,C120,Saint Stanislaus Kostka School,12.0,10.08,119.0
+84,C125,Marquette Catholic High School,9.0,3.3,273.0
+85,D050,Saint Patrick School,13.0,4.47,291.0
+86,D065,Nativity of Our Savior School,9.0,6.34,142.0
+87,D085,Saint Paul Catholic School,15.0,5.36,280.0
+88,A470,Sacred Heart School,19.0,22.35,85.0
+89,A790,Saint Lawrence School,7.0,15.22,46.0
+90,A795,Saint Mary School,9.0,5.96,151.0
+91,B155,Saint Paul Parish School,8.0,6.72,119.0
+92,B215,Our Lady Of Mt Carmel School,24.0,3.75,640.0
+93,B216,Saint Maria Goretti School,33.0,7.47,442.0
+94,B227,Saint Louis de Montfort School,16.0,3.27,490.0
+95,B246,Our Lady of Grace School,23.0,8.04,286.0
+96,B249,Guerin Catholic High School,37.0,4.88,758.0
+97,B395,Sts Joan of Arc & Patrick School,38.0,14.23,267.0
+98,B475,Saint Augustine School,11.0,10.78,102.0
+99,C190,Saint Mary School,3.0,3.57,84.0
+100,C211,Holy Cross School,14.0,6.64,211.0
+101,D415,Central Catholic Jr-Sr High School,22.0,5.08,433.0
+102,D420,Saint Boniface School,12.0,9.3,129.0
+103,D425,Saint Lawrence Elementary School,18.0,6.77,266.0
+104,D430,Saint Mary Cathedral School,15.0,8.88,169.0
+105,A660,Washington Catholic Mid/High Sch,16.0,9.3,172.0
+106,A665,Washington Catholic Elementary Sch,14.0,7.49,187.0
+107,A871,Holy Trinity Catholic School,39.0,11.14,350.0
+108,B105,St Joseph School,25.0,17.48,143.0
+109,B115,Holy Cross School,19.0,13.1,145.0
+110,B120,Saint James School,26.0,12.09,215.0
+111,B125,Saints Peter & Paul School,14.0,11.86,118.0
+112,B560,Rivet Middle & High School,4.0,2.65,151.0
+113,B565,Flaget Elementary School,18.0,6.87,262.0
+114,D095,St Matthew School,10.0,15.15,66.0
+115,D100,St Philip School,15.0,8.33,180.0
+116,D105,Saint Wendel School,19.0,10.33,184.0
+117,D370,St Bernard Catholic School,25.0,20.83,120.0
+118,D530,Mater Dei High School,19.0,3.59,529.0
+119,D535,Reitz Memorial High School,22.0,3.19,690.0
+120,D545,Annuc Cthlc Sch @ Christ the King,13.0,8.44,154.0
+121,D550,Corpus Christi School,17.0,6.83,249.0
+122,D555,Good Shepherd School,25.0,7.14,350.0
+123,D560,Holy Redeemer School,18.0,8.22,219.0
+124,D565,Holy Rosary School,26.0,7.37,353.0
+125,D570,Annunciation Cthlc at Holy Spirit,45.0,25.86,174.0
+126,D580,Westside Catholic School,17.0,10.0,170.0
+127,D590,St Benedict Cathedral School,25.0,6.41,390.0
+128,D605,Saint Joseph School,19.0,10.11,188.0
+129,D610,Resurrection School,22.0,6.71,328.0
+130,D815,Saint John The Baptist School,41.0,12.09,339.0
+131,A035,Saint Joseph School,25.0,8.42,297.0
+132,A104,Saint Elizabeth Seton Catholic Sch,25.0,5.45,459.0
+133,A106,Our Lady School,9.0,5.14,175.0
+134,A120,Bishop Dwenger High School,59.0,5.49,1075.0
+135,A125,Bishop Luers High School,38.0,6.16,617.0
+136,A130,Most Precious Blood School,22.0,9.48,232.0
+137,A135,Queen Of Angels School,11.0,5.7,193.0
+138,A145,Saint Charles Borromeo School,37.0,5.17,715.0
+139,A150,Saint John The Baptist School,13.0,5.68,229.0
+140,A155,Saint Joseph Catholic School,10.0,5.52,181.0
+141,A160,Saint Jude Elementary School,32.0,6.61,484.0
+142,A175,Saint Therese School,17.0,8.85,192.0
+143,A180,Saint Vincent DePaul School,52.0,6.91,752.0
+144,A270,Saint Aloysius Catholic School,13.0,13.4,97.0
+145,A340,Saint Rose of Lima School,10.0,9.52,105.0
+146,A350,St Joseph Hessen Cassel Cath Sch,10.0,8.93,112.0
+147,A355,Saint John The Baptist Catholic,13.0,5.73,227.0
+148,A360,Saint Louis Besancon Catholic Sch,5.0,5.32,94.0
+149,A735,Saint Joseph School,6.0,7.89,76.0
+150,A975,St Thomas The Apostle School,20.0,8.0,250.0
+151,A980,St Vincent de Paul School,10.0,6.13,163.0
+152,B020,St John Evangelist School,11.0,8.66,127.0
+153,B418,Huntington Catholic School,15.0,13.76,109.0
+154,B605,Sacred Heart School,13.0,8.97,145.0
+155,C855,Saint Michael School,7.0,4.35,161.0
+156,C980,Saint Mary Elementary School,14.0,11.29,124.0
+157,D164,St Pius X Catholic School,36.0,6.45,558.0
+158,D165,Marian High School,32.0,4.65,688.0
+159,D177,Mishawaka Catholic School,24.0,8.92,269.0
+160,D198,Queen of Peace School,14.0,6.7,209.0
+161,D225,Saint Joseph High School,35.0,3.91,896.0
+162,D230,Christ The King School,38.0,7.92,480.0
+163,D235,Corpus Christi School,20.0,10.64,188.0
+164,D240,Holy Cross School,21.0,9.91,212.0
+165,D245,Holy Family School,12.0,4.6,261.0
+166,D250,Our Lady Of Hungary School,10.0,5.43,184.0
+167,D255,Saint Adalbert School,9.0,4.0,225.0
+168,D260,Saint Anthony De Padua School,29.0,10.51,276.0
+169,D265,Saint John The Baptist School,5.0,6.94,72.0
+170,D270,Saint Joseph School,37.0,8.17,453.0
+171,D275,Saint Jude Catholic School,38.0,19.69,193.0
+172,D285,Saint Matthew Cathedral School,46.0,12.99,354.0
+173,D805,Saint Bernard Elementary School,4.0,5.26,76.0
+174,A040,St Peter Immanuel Lutheran School,2.0,4.65,43.0
+175,A045,Wyneken Memorial Lutheran School,10.0,4.61,217.0
+176,A195,Concordia Lutheran High School,31.0,3.97,781.0
+177,A200,Suburban Bethlehem Lutheran School,10.0,6.54,153.0
+178,A205,Concordia Lutheran School,18.0,4.63,389.0
+179,A215,Emmanuel St Michael Lutheran Sch,22.0,6.4,344.0
+180,A220,Emmaus Lutheran School,3.0,1.55,193.0
+181,A225,Holy Cross Lutheran School,26.0,6.31,412.0
+182,A235,Lutheran South Unity School,14.0,8.05,174.0
+183,A245,Saint Paul Lutheran School,13.0,7.14,182.0
+184,A248,Ascension Lutheran School,11.0,7.86,140.0
+185,A250,Saint Peter's Lutheran School,15.0,7.01,214.0
+186,A365,St John-Emmanuel Lutheran School,18.0,12.95,139.0
+187,A370,Central Lutheran School,12.0,3.48,345.0
+188,A375,Woodburn Lutheran School,13.0,9.85,132.0
+189,A430,White Creek Lutheran School,12.0,9.38,128.0
+190,A435,Saint Peter Lutheran School,33.0,7.5,440.0
+191,A695,Saint John Ev Lutheran School,4.0,7.69,52.0
+192,B275,Saint John Lutheran School,11.0,17.19,64.0
+193,B367,Redeemer Lutheran School,13.0,13.68,95.0
+194,B445,Immanuel Lutheran School,36.0,11.15,323.0
+195,B450,Saint John Lutheran School,13.0,14.44,90.0
+196,B452,Trinity Lutheran High School,11.0,7.75,142.0
+197,B465,Lutheran Central School,10.0,7.87,127.0
+198,B850,Trinity Lutheran School,15.0,7.81,192.0
+199,C050,Trinity Lutheran School,4.0,4.88,82.0
+200,C065,St Paul's Lutheran School,10.0,6.02,166.0
+201,C150,Saint John Lutheran School,10.0,9.8,102.0
+202,C267,Holy Cross Lutheran School,24.0,10.0,240.0
+203,C270,Lutheran High School,20.0,7.97,251.0
+204,C315,Calvary Lutheran School,18.0,8.04,224.0
+205,C395,Trinity Lutheran School,13.0,10.83,120.0
+206,C400,Saint John Ev Lutheran School,16.0,8.65,185.0
+207,C512,Our Shepherd Lutheran School,11.0,7.33,150.0
+208,C680,Emmaus Lutheran School,2.0,10.53,19.0
+209,C985,St John Lutheran School,13.0,8.84,147.0
+210,D090,Immanuel Lutheran School,9.0,5.26,171.0
+211,D317,Resurrection Lutheran Academy,2.0,3.57,56.0
+212,D375,Saint Peter Lutheran School,3.0,3.41,88.0
+213,D435,Saint James Lutheran School,19.0,9.13,208.0
+214,D625,Evansville Lutheran School,25.0,14.79,169.0
+215,B297,The Oaks Academy - Brookside,11.0,4.66,236.0
+216,C773,The Oaks Academy - Fall Creek,28.0,8.09,346.0
+217,C774,The Oaks Academy - Middle School,6.0,4.05,148.0
+218,C460,IN Sch for the Blind & Vis Imprd,137.0,99.28,138.0
+219,C695,Indiana School For The Deaf,270.0,98.18,275.0
+220,C275,,30.0,2.52,1189.0
+221,B009,,114.0,11.26,1012.0
+222,B045,,19.0,2.56,743.0
+223,B771,,2.0,0.28,709.0
+224,D485,,37.0,5.4,685.0
+225,C375,,51.0,8.28,616.0
+226,D452,,43.0,7.19,598.0
+227,A740,,36.0,6.03,597.0
+228,C966,,18.0,3.09,583.0
+229,A990,,30.0,5.64,532.0
+230,A307,,60.0,12.2,492.0
+231,B295,,27.0,6.65,406.0
+232,A172,,12.0,3.06,392.0
+233,A170,,5.0,1.43,350.0
+234,C020,,13.0,3.77,345.0
+235,C527,,13.0,3.89,334.0
+236,C965,,21.0,6.54,321.0
+237,B290,,16.0,5.0,320.0
+238,B470,,15.0,4.78,314.0
+239,D080,,22.0,7.26,303.0
+240,C940,,24.0,7.95,302.0
+241,D073,,5.0,1.69,296.0
+242,B015,,14.0,4.75,295.0
+243,C226,,24.0,8.16,294.0
+244,D440,,33.0,11.38,290.0
+245,B241,,0.0,0.0,289.0
+246,C927,,23.0,8.07,285.0
+247,C175,,31.0,10.99,282.0
+248,C282,,17.0,6.16,276.0
+249,B160,,6.0,2.26,266.0
+250,D525,,13.0,5.31,245.0
+251,C514,,12.0,4.94,243.0
+252,C628,,1.0,0.41,241.0
+253,C325,,8.0,3.38,237.0
+254,C495,,9.0,3.81,236.0
+255,D310,,10.0,4.35,230.0
+256,B145,,2.0,0.88,228.0
+257,C225,,20.0,8.81,227.0
+258,C580,,17.0,7.62,223.0
+259,C699,,5.0,2.25,222.0
+260,A875,,10.0,4.67,214.0
+261,A450,,8.0,3.79,211.0
+262,A746,,11.0,5.34,206.0
+263,B600,,20.0,10.0,200.0
+264,D217,,3.0,1.54,195.0
+265,B806,,0.0,0.0,190.0
+266,B136,,6.0,3.33,180.0
+267,C561,,22.0,12.29,179.0
+268,B248,,21.0,11.86,177.0
+269,D305,,10.0,6.06,165.0
+270,C677,,2.0,1.21,165.0
+271,D195,,13.0,8.5,153.0
+272,B493,,7.0,4.64,151.0
+273,C575,,16.0,10.74,149.0
+274,B595,,11.0,7.38,149.0
+275,A249,,11.0,7.48,147.0
+276,C475,,14.0,9.66,145.0
+277,B815,,6.0,4.51,133.0
+278,A236,,1.0,0.77,130.0
+279,D189,,9.0,6.98,129.0
+280,B190,,1.0,0.79,127.0
+281,D451,,48.0,38.4,125.0
+282,C281,,6.0,4.88,123.0
+283,C130,,13.0,10.66,122.0
+284,C563,,4.0,3.51,114.0
+285,B455,,5.0,4.39,114.0
+286,C271,,13.0,11.4,114.0
+287,C933,,14.0,12.73,110.0
+288,B299,,0.0,0.0,104.0
+289,B469,,2.0,2.02,99.0
+290,D862,,4.0,4.08,98.0
+291,C455,,2.0,2.08,96.0
+292,D329,,0.0,0.0,93.0
+293,C396,,6.0,7.89,76.0
+294,C918,,6.0,7.89,76.0
+295,C349,,3.0,4.0,75.0
+296,B748,,7.0,9.46,74.0
+297,A724,,13.0,17.57,74.0
+298,B725,,15.0,20.83,72.0
+299,C791,,10.0,14.29,70.0
+300,D860,,1.0,1.59,63.0
+301,C250,,8.0,12.7,63.0
+302,C690,,0.0,0.0,58.0
+303,B747,,6.0,10.53,57.0
+304,C257,,25.0,43.86,57.0
+305,B483,,9.0,16.07,56.0
+306,B085,,3.0,5.36,56.0
+307,B161,,2.0,3.7,54.0
+308,B928,,0.0,0.0,52.0
+309,D875,,0.0,0.0,52.0
+310,B904,,1.0,1.96,51.0
+311,D315,,6.0,12.77,47.0
+312,A275,,35.0,74.47,47.0
+313,A260,,0.0,0.0,45.0
+314,C223,,0.0,0.0,41.0
+315,B951,,0.0,0.0,41.0
+316,C215,,0.0,0.0,40.0
+317,B764,,0.0,0.0,40.0
+318,C589,,28.0,70.0,40.0
+319,D158,,1.0,2.63,38.0
+320,D907,,1.0,2.94,34.0
+321,B167,,3.0,9.09,33.0
+322,B302,,0.0,0.0,31.0
+323,D725,,4.0,13.33,30.0
+324,D300,,2.0,7.41,27.0
+325,A480,,0.0,0.0,26.0
+326,B473,,12.0,46.15,26.0
+327,D249,,0.0,0.0,24.0
+328,A405,,0.0,0.0,15.0
+329,D748,,1.0,6.67,15.0
+330,C899,,0.0,0.0,15.0
+331,C905,,0.0,0.0,14.0
+332,C112,,1.0,12.5,8.0
+333,D056,,0.0,0.0,8.0
+334,A352,,0.0,0.0,4.0
+335,A515,,,,
+336,B195,,,,
+337,B985,,,,
+338,A479,,,,
+339,D526,,,,
+340,B037,,,,
+341,B790,,,,
+342,A865,,,,
+343,A309,,,,
+344,A302,,,,
+345,D722,,,,
+346,C224,,,,
+347,A870,,,,
+348,C205,,,,
+349,C040,,,,
+350,B800,,,,
+351,D465,,,,
+352,C145,,,,
+353,C210,,,,
+354,B065,,,,
+355,D615,,,,
+356,D458,,,,
+357,B293,,,,
+358,B901,,,,
+359,D058,,,,
+360,B557,,,,
+361,D676,,,,
+362,B807,,,,
