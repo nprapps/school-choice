@@ -33,3 +33,9 @@ jupyter notebook
 `
 
 The homepage of the notebook should open automatically in your preferred browser. Notebooks generally run on `localhost:8888` if it is the sole notebook running.
+
+
+Data sources
+---------------
+
+Choice Scholarship program annual report: [2014](http://indianapublicmedia.org/stateimpact/files/2014/01/Choice-Scholarship-Program-Annual-Report-012714.pdf), [2016](http://www.doe.in.gov/sites/default/files/news/2015-2016-choice-scholarship-program-report-final-april2016.pdf), [2017](http://www.doe.in.gov/sites/default/files/choice/2016-2017-choice-scholarship-program-report-feb24-final.pdf)
