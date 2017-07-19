@@ -1,5 +1,7 @@
 # school-choice
-Data analysis for education's school choice in Indiana project
+Data analysis for education's school choice in Indiana project.
+
+Data used in NPR Ed's story ["The Promise And Peril Of School Vouchers"](http://www.npr.org/sections/ed/2017/05/12/520111511/the-promise-and-peril-of-school-vouchers)
 
 Assumptions
 -----------
